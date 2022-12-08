@@ -1,0 +1,1703 @@
+[
+    {
+        "Product_ID": 1,
+        "Link": "https://www.lazada.co.th/products/apple-pencil-tips-4-pack-i2907107841.html",
+        "Name": "Apple Pencil Tips - 4 pack",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 2,
+        "Link": "https://www.lazada.co.th/products/apple-20w-usb-c-power-adapter-i1727078730.html",
+        "Name": "APPLE 20W USB-C Power Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 3,
+        "Link": "https://www.lazada.co.th/products/airtag-1-pack-i2342668042.html",
+        "Name": "AirTag (1 Pack)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 4,
+        "Link": "https://www.lazada.co.th/products/apple-magic-mouse-white-multi-touch-surface-mk2e3zaa-i2767004747.html",
+        "Name": "Apple Magic Mouse - White Multi-Touch Surface ( MK2E3ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 5,
+        "Link": "https://www.lazada.co.th/products/apple-pencil-1st-generation-i160588228.html",
+        "Name": "Apple Pencil (1st generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 6,
+        "Link": "https://www.lazada.co.th/products/apple-earpods-with-35mm-headphone-plug-i160588287.html",
+        "Name": "Apple EarPods with 3.5mm Headphone Plug (\u0e2b\u0e39\u0e1f\u0e31\u0e07)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 7,
+        "Link": "https://www.lazada.co.th/products/apple-airpods-with-charging-case-2nd-generation-i306764717.html",
+        "Name": "Apple AirPods with Charging Case (2nd generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 8,
+        "Link": "https://www.lazada.co.th/products/apple-mac-mini-m1-chip-with-8core-cpu-and-8core-gpu-512gb-ssd-i2882753423.html",
+        "Name": "Apple Mac mini : M1 chip with 8\u2011core CPU and 8\u2011core GPU, 512GB SSD",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 9,
+        "Link": "https://www.lazada.co.th/products/airpods-pro-2nd-generation-i4141275808.html",
+        "Name": "[\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e2a\u0e48\u0e07] AirPods Pro (2nd generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 10,
+        "Link": "https://www.lazada.co.th/products/apple-lightning-to-usb-c-cable-1-m-i2911805926.html",
+        "Name": "Apple Lightning to USB-C Cable 1 m (\u0e2a\u0e32\u0e22\u0e0a\u0e32\u0e23\u0e4c\u0e08\u0e44\u0e2d\u0e42\u0e1f\u0e19)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 11,
+        "Link": "https://www.lazada.co.th/products/apple-lightning-to-usb-cable-1m-i2894856066.html",
+        "Name": "Apple Lightning to USB Cable 1m (\u0e2a\u0e32\u0e22\u0e0a\u0e32\u0e23\u0e4c\u0e08\u0e44\u0e2d\u0e42\u0e1f\u0e19)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 12,
+        "Link": "https://www.lazada.co.th/products/apple-pencil-2nd-generation-i265106982.html",
+        "Name": "Apple Pencil (2nd Generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 13,
+        "Link": "https://www.lazada.co.th/products/new-airpods-3rd-generation-i2884272405.html",
+        "Name": "(NEW) AirPods (3rd generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 14,
+        "Link": "https://www.lazada.co.th/products/apple-lightning-to-35-mm-headphone-jack-adapter-i160588297.html",
+        "Name": "Apple Lightning to 3.5 mm Headphone Jack Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 15,
+        "Link": "https://www.lazada.co.th/products/apple-earpods-with-lightning-connector-i160588349.html",
+        "Name": "Apple EarPods with Lightning Connector (\u0e2b\u0e39\u0e1f\u0e31\u0e07)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 16,
+        "Link": "https://www.lazada.co.th/products/airtag-4-pack-i2342660091.html",
+        "Name": "AirTag (4 Pack)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 17,
+        "Link": "https://www.lazada.co.th/products/apple-lightning-to-digital-av-adapter-i160588306.html",
+        "Name": "Apple Lightning to Digital AV Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 18,
+        "Link": "https://www.lazada.co.th/products/apple-magic-mouse-black-multi-touch-surface-mmmq3zaa-i3532734546.html",
+        "Name": "Apple Magic Mouse - Black Multi-Touch Surface ( MMMQ3ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 19,
+        "Link": "https://www.lazada.co.th/products/apple-watch-nike-series-7-gps-41mm45mm-aluminium-case-with-nike-sport-band-regular-i2883977853.html",
+        "Name": "Apple Watch Nike Series 7 GPS (41mm,45mm) Aluminium Case with Nike Sport Band - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 20,
+        "Link": "https://www.lazada.co.th/products/apple-watch-series-7-gps-cellular-41mm45mm-aluminium-case-with-sport-band-regular-i2884012849.html",
+        "Name": "Apple Watch Series 7 GPS + Cellular (41mm,45mm) Aluminium Case with Sport Band - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 21,
+        "Link": "https://www.lazada.co.th/products/109-inch-ipad-wi-fi-10th-gen-2022-i4209115562.html",
+        "Name": "10.9-inch iPad Wi-Fi ( 10th Gen 2022 )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 22,
+        "Link": "https://www.lazada.co.th/products/apple-lightning-to-usb-c-cable-2-m-i2731496989.html",
+        "Name": "Apple Lightning to USB-C Cable 2 m (\u0e2a\u0e32\u0e22\u0e0a\u0e32\u0e23\u0e4c\u0e08\u0e44\u0e2d\u0e42\u0e1f\u0e19)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 23,
+        "Link": "https://www.lazada.co.th/products/iphone-14-pro-i4132098183.html",
+        "Name": "iPhone 14 Pro",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 24,
+        "Link": "https://www.lazada.co.th/products/apple-lightning-to-vga-adapter-i160588329.html",
+        "Name": "Apple Lightning to VGA Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 25,
+        "Link": "https://www.lazada.co.th/products/apple-magsafe-charger-i1798780168.html",
+        "Name": "Apple MagSafe Charger",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 26,
+        "Link": "https://www.lazada.co.th/products/airpods-pro-1st-generation-i2883157558.html",
+        "Name": "AirPods Pro (1st generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 27,
+        "Link": "https://www.lazada.co.th/products/apple-watch-se-gps-2021-40mm-44mm-i3341908176.html",
+        "Name": "Apple Watch SE GPS (2021), 40mm , 44mm",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 28,
+        "Link": "https://www.lazada.co.th/products/102-inch-ipad-wi-fi-9th-gen-2021-i2783115014.html",
+        "Name": "10.2-inch iPad Wi-Fi (9th Gen 2021)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 29,
+        "Link": "https://www.lazada.co.th/products/iphone-14-i4132104119.html",
+        "Name": "iPhone 14",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 30,
+        "Link": "https://www.lazada.co.th/products/apple-usb-c-to-apple-pencil-adapter-i4220795338.html",
+        "Name": "Apple USB-C to Apple Pencil Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 31,
+        "Link": "https://www.lazada.co.th/products/apple-watch-magnetic-fast-charger-to-usb-c-cable-1-m-i2791496084.html",
+        "Name": "Apple Watch Magnetic Fast Charger to USB-C Cable (1 m)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 32,
+        "Link": "https://www.lazada.co.th/products/iphone-14-plus-i4132121201.html",
+        "Name": "iPhone 14 Plus",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 33,
+        "Link": "https://www.lazada.co.th/products/102-inch-ipad-wi-fi-cellular-9th-gen-2021-i2782981977.html",
+        "Name": "10.2-inch iPad Wi-Fi + Cellular (9th Gen 2021)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 34,
+        "Link": "https://www.lazada.co.th/products/apple-usb-c-to-magsafe-3-cable-2-m-mlyv3zaa-i2998799058.html",
+        "Name": "Apple USB-C to Magsafe 3 Cable (2 m) ( MLYV3ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 35,
+        "Link": "https://www.lazada.co.th/products/airpods-max-i1982932559.html",
+        "Name": "AirPods Max",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 36,
+        "Link": "https://www.lazada.co.th/products/apple-lightning-to-usb3-camera-adapter-i160588137.html",
+        "Name": "Apple Lightning to USB3 Camera Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 37,
+        "Link": "https://www.lazada.co.th/products/iphone-11-without-adapter-i1751886631.html",
+        "Name": "iPhone 11 without Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 38,
+        "Link": "https://www.lazada.co.th/products/iphone13promax-i2788950906.html",
+        "Name": "iPhone13ProMax",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 39,
+        "Link": "https://www.lazada.co.th/products/iphone-14-pro-max-i4132055483.html",
+        "Name": "iPhone 14 Pro Max",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 40,
+        "Link": "https://www.lazada.co.th/products/apple-usb-c-charge-cable-1-m-new-mm093zaa-i3001008477.html",
+        "Name": "Apple USB-C Charge Cable (1 m) - New ( MM093ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 41,
+        "Link": "https://www.lazada.co.th/products/apple-usb-c-to-35-mm-headphone-jack-adapter-i265121079.html",
+        "Name": "Apple USB-C to 3.5 mm Headphone Jack Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 42,
+        "Link": "https://www.lazada.co.th/products/apple-watch-nike-se-gps-cellular-2021-40mm-44mm-i3341794680.html",
+        "Name": "Apple Watch Nike SE GPS + Cellular (2021), 40mm , 44mm",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 43,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-pro-silicone-case-with-magsafe-i4141133609.html",
+        "Name": "Apple iPhone 14 Pro Silicone Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 44,
+        "Link": "https://www.lazada.co.th/products/apple-watch-series-8-gps-41mm45mm-aluminium-case-with-sport-band-regular-i4138424304.html",
+        "Name": "Apple Watch Series 8 GPS (41mm,45mm) - Aluminium Case with Sport Band - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 45,
+        "Link": "https://www.lazada.co.th/products/iphone-13-i2789010336.html",
+        "Name": "iPhone 13",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 46,
+        "Link": "https://www.lazada.co.th/products/apple-usb-c-digital-av-multiport-adapter-muf82zaa-i351860590.html",
+        "Name": "Apple USB-C Digital AV Multiport Adapter ( MUF82ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 47,
+        "Link": "https://www.lazada.co.th/products/ipad-mini-wi-fi-cellular-2021-i2782929935.html",
+        "Name": "iPad mini Wi-Fi + Cellular (2021)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 48,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-pro-max-silicone-case-with-magsafe-i4141199672.html",
+        "Name": "Apple iPhone 14 Pro Max Silicone Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 49,
+        "Link": "https://www.lazada.co.th/products/apple-tv-4k-64gb-i2342641537.html",
+        "Name": "Apple TV 4K 64GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 50,
+        "Link": "https://www.lazada.co.th/products/apple-macbook-air-m1-chip-with-8-core-cpu-and-7-core-gpu-256gb-ssd-13-inch-i1799582869.html",
+        "Name": "Apple MacBook Air : M1 chip with 8-core CPU and 7-core GPU 256GB SSD 13-inch",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 51,
+        "Link": "https://www.lazada.co.th/products/apple-usb-c-to-usb-adapter-i160588337.html",
+        "Name": "Apple USB-C to USB Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 52,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-pro-leather-case-with-magsafe-i4141020827.html",
+        "Name": "Apple iPhone 14 Pro Leather Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 53,
+        "Link": "https://www.lazada.co.th/products/iphone-13-pro-i2788988724.html",
+        "Name": "iPhone 13 Pro",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 54,
+        "Link": "https://www.lazada.co.th/products/apple-watch-nike-series-7-gps-cellular-41mm45mm-aluminium-case-with-nike-sport-band-regular-i2884005426.html",
+        "Name": "Apple Watch Nike Series 7 GPS + Cellular (41mm,45mm) Aluminium Case with Nike Sport Band - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 55,
+        "Link": "https://www.lazada.co.th/products/apple-watch-se-2022-gps-40mm44mm-aluminium-case-with-sport-band-regular-i4138364451.html",
+        "Name": "Apple Watch SE (2022) GPS (40mm,44mm) - Aluminium Case with Sport Band - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 56,
+        "Link": "https://www.lazada.co.th/products/apple-lightning-to-usb-cable-2-m-i160588326.html",
+        "Name": "Apple Lightning to USB Cable 2 m (\u0e2a\u0e32\u0e22\u0e0a\u0e32\u0e23\u0e4c\u0e08\u0e44\u0e2d\u0e42\u0e1f\u0e19)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 57,
+        "Link": "https://www.lazada.co.th/products/apple-magic-trackpad-white-multi-touch-surface-mk2d3zaa-i3441401683.html",
+        "Name": "Apple Magic Trackpad - White Multi-Touch Surface ( MK2D3ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 58,
+        "Link": "https://www.lazada.co.th/products/apple-12w-usb-power-adapter-i3001047211.html",
+        "Name": "Apple 12W USB Power Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 59,
+        "Link": "https://www.lazada.co.th/products/apple-magic-trackpad-black-multi-touch-surface-mmmp3zaa-i3532617880.html",
+        "Name": "Apple Magic Trackpad - Black Multi-Touch Surface ( MMMP3ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 60,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-silicone-case-with-magsafe-i4141253201.html",
+        "Name": "Apple iPhone 14 Silicone Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 61,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-leather-wallet-with-magsafe-i4141001930.html",
+        "Name": "Apple iPhone Leather Wallet with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 62,
+        "Link": "https://www.lazada.co.th/products/apple-watch-41mm45mm-sport-band-i4141210727.html",
+        "Name": "Apple Watch 41mm,45mm Sport Band",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 63,
+        "Link": "https://www.lazada.co.th/products/new-apple-pencil-1stgeneration-with-lightning-adapter-i4220587678.html",
+        "Name": "(New) Apple Pencil (1st Generation) with Lightning adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 64,
+        "Link": "https://www.lazada.co.th/products/apple-usb-c-vga-multiport-adapter-mj1l2zaa-i351862595.html",
+        "Name": "Apple USB-C VGA Multiport Adapter ( MJ1L2ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 65,
+        "Link": "https://www.lazada.co.th/products/iphone-13-mini-i2789016417.html",
+        "Name": "iPhone 13 mini",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 66,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-pro-clear-case-with-magsafe-i4141260358.html",
+        "Name": "Apple iPhone 14 Pro Clear Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 67,
+        "Link": "https://www.lazada.co.th/products/11-inch-ipad-pro-wi-fi-2022-i4209190621.html",
+        "Name": "11-inch iPad Pro Wi-Fi (2022)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 68,
+        "Link": "https://www.lazada.co.th/products/apple-magic-keyboard-thai-mk2a3tha-i3071691849.html",
+        "Name": "Apple Magic Keyboard - Thai ( MK2A3TH/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 69,
+        "Link": "https://www.lazada.co.th/products/11-inch-ipad-pro-wifi-2021-i2331963422.html",
+        "Name": "11-inch iPad Pro Wi\u2011Fi (2021)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 70,
+        "Link": "https://www.lazada.co.th/products/109-inch-ipad-air-wi-fi-cellular-2022-i3530621332.html",
+        "Name": "10.9-inch iPad Air Wi-Fi + Cellular (2022)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 71,
+        "Link": "https://www.lazada.co.th/products/apple-watch-41mm45mm-sport-loop-i4141298314.html",
+        "Name": "Apple Watch 41mm,45mm Sport Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 72,
+        "Link": "https://www.lazada.co.th/products/apple-watch-ultra-gps-cellular-49mm-titanium-case-with-ocean-band-i4138459552.html",
+        "Name": "Apple Watch Ultra GPS + Cellular, 49mm - Titanium Case with Ocean Band",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 73,
+        "Link": "https://www.lazada.co.th/products/apple-watch-se-gps-cellular-2021-40mm-44mm-sport-band-i3342633923.html",
+        "Name": "Apple Watch SE GPS + Cellular (2021), 40mm , 44mm - Sport Band",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 74,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-pro-max-leather-case-with-magsafe-i4141256149.html",
+        "Name": "Apple iPhone 14 Pro Max Leather Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 75,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-pro-max-clear-case-with-magsafe-i4141287277.html",
+        "Name": "Apple iPhone 14 Pro Max Clear Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 76,
+        "Link": "https://www.lazada.co.th/products/apple-watch-se-2022-gps-cellular-40mm44mm-aluminium-case-with-sport-band-regular-i4138479199.html",
+        "Name": "Apple Watch SE (2022) GPS + Cellular (40mm,44mm) - Aluminium Case with Sport Band - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 77,
+        "Link": "https://www.lazada.co.th/products/apple-thunderbolt-4-pro-cable-18-m-mn713zaa-i3532824277.html",
+        "Name": "Apple Thunderbolt 4 Pro Cable (1.8 m) ( MN713ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 78,
+        "Link": "https://www.lazada.co.th/products/apple-watch-se-gps-cellular2021-40mm-44mm-sport-loop-i3343424636.html",
+        "Name": "Apple Watch SE GPS + Cellular(2021), 40mm , 44mm - Sport Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 79,
+        "Link": "https://www.lazada.co.th/products/13-inch-macbook-air-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-512gb-i3887886903.html",
+        "Name": "13-inch MacBook Air: Apple M2 chip with 8-core CPU and 10-core GPU, 512GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 80,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-plus-clear-case-with-magsafe-i4141044874.html",
+        "Name": "Apple iPhone 14 Plus Clear Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 81,
+        "Link": "https://www.lazada.co.th/products/apple-watch-series-8-gps-cellular-41mm45mm-aluminium-case-with-sport-band-regular-i4138307652.html",
+        "Name": "Apple Watch Series 8 GPS + Cellular (41mm,45mm) - Aluminium Case with Sport Band - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 82,
+        "Link": "https://www.lazada.co.th/products/apple-usb-c-charge-cable-1m-i4220751831.html",
+        "Name": "Apple USB-C Charge Cable (1m)(\u0e2a\u0e32\u0e22\u0e16\u0e31\u0e01)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 83,
+        "Link": "https://www.lazada.co.th/products/apple-smart-keyboard-folio-for-129-inch-ipad-pro-4th-generation-i870370885.html",
+        "Name": "Apple Smart Keyboard Folio for 12.9-inch iPad Pro (4th generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 84,
+        "Link": "https://www.lazada.co.th/products/109-inch-ipad-air-wi-fi-2022-i3530808507.html",
+        "Name": "10.9-inch iPad Air Wi-Fi (2022)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 85,
+        "Link": "https://www.lazada.co.th/products/apple-smart-keyboard-folio-for-11-inch-ipad-pro-2nd-generation-i870392403.html",
+        "Name": "Apple Smart Keyboard Folio for 11-inch iPad Pro (2nd generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 86,
+        "Link": "https://www.lazada.co.th/products/apple-watch-41mm45mm-leather-link-smml-i4141289339.html",
+        "Name": "Apple Watch 41mm,45mm Leather Link - S/M,ML",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 87,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-leather-case-with-magsafe-i4141126852.html",
+        "Name": "Apple iPhone 14 Leather Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 88,
+        "Link": "https://www.lazada.co.th/products/pre-order-109-inch-ipad-wi-fi-cellular-10th-gen-2022-29-2565-i4209265196.html",
+        "Name": "(Pre-order ) 10.9-inch iPad Wi-Fi + Cellular ( 10th Gen 2022 ) (\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e08\u0e31\u0e14\u0e2a\u0e48\u0e07\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 29 \u0e1e\u0e24\u0e28\u0e08\u0e34\u0e01\u0e32\u0e22\u0e19 2565 )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 89,
+        "Link": "https://www.lazada.co.th/products/129-inch-ipad-pro-wifi-2022-i4209153856.html",
+        "Name": "12.9-inch iPad Pro Wi\u2011Fi (2022)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 90,
+        "Link": "https://www.lazada.co.th/products/apple-smart-keyboard-for-ipad-9th-generation-thai-i2907100407.html",
+        "Name": "Apple Smart Keyboard for iPad (9th generation) - Thai",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 91,
+        "Link": "https://www.lazada.co.th/products/apple-watch-series-7-gps-41mm45mm-aluminium-case-with-sport-band-regular-i2884253167.html",
+        "Name": "Apple Watch Series 7 GPS (41mm,45mm) Aluminium Case with Sport Band - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 92,
+        "Link": "https://www.lazada.co.th/products/13-inch-macbook-air-apple-m2-chip-with-8-core-cpu-and-8-core-gpu-256gb-i3888001169.html",
+        "Name": "13-inch MacBook Air: Apple M2 chip with 8-core CPU and 8-core GPU, 256GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 93,
+        "Link": "https://www.lazada.co.th/products/apple-watch-ultra-gps-cellular-49mm-titanium-case-with-alpine-loop-i4138540698.html",
+        "Name": "Apple Watch Ultra GPS + Cellular, 49mm - Titanium Case with Alpine Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 94,
+        "Link": "https://www.lazada.co.th/products/apple-watch-41mm45mm-nike-sport-band-i4141194526.html",
+        "Name": "Apple Watch 41mm,45mm Nike Sport Band",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 95,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-clear-case-with-magsafe-i4141227319.html",
+        "Name": "Apple iPhone 14 Clear Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 96,
+        "Link": "https://www.lazada.co.th/products/apple-airtag-leather-key-ring-i2342510545.html",
+        "Name": "Apple AirTag Leather Key Ring",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 97,
+        "Link": "https://www.lazada.co.th/products/apple-watch-series-8-gps-cellular-41mm45mm-stainless-steel-case-with-sport-band-regular-i4138405895.html",
+        "Name": "Apple Watch Series 8 GPS + Cellular (41mm,45mm) - Stainless Steel Case with Sport Band - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 98,
+        "Link": "https://www.lazada.co.th/products/apple-watch-ultra-gps-cellular-49mm-titanium-case-with-trail-loop-smml-i4138646012.html",
+        "Name": "Apple Watch Ultra GPS + Cellular, 49mm - Titanium Case with Trail Loop (S/M,M/L)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 99,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-plus-silicone-case-with-magsafe-i4141256256.html",
+        "Name": "Apple iPhone 14 Plus Silicone Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 100,
+        "Link": "https://www.lazada.co.th/products/41mm-sport-loop-regular-i2791344746.html",
+        "Name": "41mm Sport Loop - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 101,
+        "Link": "https://www.lazada.co.th/products/16-inch-macbook-pro-apple-m1-pro-chip-with-10core-cpu-and-16core-gpu-1tb-ssd-i3073246981.html",
+        "Name": "16-inch MacBook Pro: Apple M1 Pro chip with 10\u2011core CPU and 16\u2011core GPU, 1TB SSD",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 102,
+        "Link": "https://www.lazada.co.th/products/iphone-13-mini-leather-case-with-magsafe-i2787527829.html",
+        "Name": "iPhone 13 mini Leather Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 103,
+        "Link": "https://www.lazada.co.th/products/13-inch-macbook-pro-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-512gb-ssd-i3887963910.html",
+        "Name": "13-inch MacBook Pro: Apple M2 chip with 8-core CPU and 10-core GPU 512GB SSD",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 104,
+        "Link": "https://www.lazada.co.th/products/apple-tv-remote-i4220709477.html",
+        "Name": "Apple TV Remote",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 105,
+        "Link": "https://www.lazada.co.th/products/apple-tv-hd-32gb-i2440755680.html",
+        "Name": "Apple TV HD 32GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 106,
+        "Link": "https://www.lazada.co.th/products/13-inch-macbook-pro-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-256gb-ssd-i3888040414.html",
+        "Name": "13-inch MacBook Pro: Apple M2 chip with 8-core CPU and 10-core GPU, 256GB SSD",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 107,
+        "Link": "https://www.lazada.co.th/products/pre-order-129-inch-ipad-pro-wifi-cellular-2022-29-2565-i4208974978.html",
+        "Name": "(Pre-order ) 12.9-inch iPad Pro Wi\u2011Fi + Cellular (2022)(\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e08\u0e31\u0e14\u0e2a\u0e48\u0e07\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 29 \u0e1e\u0e24\u0e28\u0e08\u0e34\u0e01\u0e32\u0e22\u0e19 2565 )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 108,
+        "Link": "https://www.lazada.co.th/products/iphone-13-mini-silicone-case-with-magsafe-i2787909030.html",
+        "Name": "iPhone 13 mini Silicone Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 109,
+        "Link": "https://www.lazada.co.th/products/pre-order-11-inch-ipad-pro-wi-fi-cellular-2022-29-2565-i4209182613.html",
+        "Name": "(Pre-order ) 11-inch iPad Pro Wi-Fi + Cellular (2022) (\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e08\u0e31\u0e14\u0e2a\u0e48\u0e07\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 29 \u0e1e\u0e24\u0e28\u0e08\u0e34\u0e01\u0e32\u0e22\u0e19 2565 )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 110,
+        "Link": "https://www.lazada.co.th/products/apple-watch-series-8-gps-cellular-41mm45mm-stainless-steel-case-with-milanese-loop-i4138227925.html",
+        "Name": "Apple Watch Series 8 GPS + Cellular (41mm,45mm) - Stainless Steel Case with Milanese Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 111,
+        "Link": "https://www.lazada.co.th/products/apple-watch-series-6-gps-44mm-with-productred-onederful-wallet-i3075168367.html",
+        "Name": "Apple Watch Series 6 GPS 44mm with PRODUCT(RED) [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 112,
+        "Link": "https://www.lazada.co.th/products/14-inch-macbook-pro-apple-m1-pro-chip-with-8core-cpu-and-14core-gpu-512gb-ssd-i2936467265.html",
+        "Name": "14-inch MacBook Pro: Apple M1 Pro chip with 8\u2011core CPU and 14\u2011core GPU 512GB SSD",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 113,
+        "Link": "https://www.lazada.co.th/products/apple-watch-series-7-gps-cellular-41mm45mm-stainless-steel-case-with-milanese-loop-i2884232119.html",
+        "Name": "Apple Watch Series 7 GPS + Cellular (41mm,45mm) Stainless Steel Case with Milanese Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 114,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-14-plus-leather-case-with-magsafe-i4140947981.html",
+        "Name": "Apple iPhone 14 Plus Leather Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 115,
+        "Link": "https://www.lazada.co.th/products/radeon-pro-w6600x-mpx-module-i3774691765.html",
+        "Name": "Radeon Pro W6600X MPX Module",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 116,
+        "Link": "https://www.lazada.co.th/products/smart-folio-for-ipad-pro-11-inch-3rd4th-generation-i2790948345.html",
+        "Name": "Smart Folio for iPad Pro 11-inch (3rd,4th generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 117,
+        "Link": "https://www.lazada.co.th/products/apple-smart-folio-for-ipad-10th-generation-i4220609458.html",
+        "Name": "Apple Smart Folio for iPad (10th generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 118,
+        "Link": "https://www.lazada.co.th/products/14-inch-macbook-pro-apple-m1-pro-chip-with-10core-cpu-and-16core-gpu-1tb-ssd-i2936442484.html",
+        "Name": "14-inch MacBook Pro: Apple M1 Pro chip with 10\u2011core CPU and 16\u2011core GPU, 1TB SSD",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 119,
+        "Link": "https://www.lazada.co.th/products/16-inch-macbook-pro-apple-m1-pro-chip-with-10core-cpu-and-16core-gpu-512gb-ssd-i2936409614.html",
+        "Name": "16-inch MacBook Pro: Apple M1 Pro chip with 10\u2011core CPU and 16\u2011core GPU, 512GB SSD",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 120,
+        "Link": "https://www.lazada.co.th/products/pre-order-3-apple-studio-display-standard-glass-vesa-mount-adapter-stand-not-included-i3699828188.html",
+        "Name": "[Pre-Order \u0e08\u0e31\u0e14\u0e2a\u0e48\u0e07\u0e20\u0e32\u0e22\u0e43\u0e19 3 \u0e27\u0e31\u0e19] Apple Studio Display - Standard Glass - VESA Mount Adapter (Stand not included)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 121,
+        "Link": "https://www.lazada.co.th/products/apple-magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-computers-with-apple-silicon-thai-mk2c3tha-i2998162771.html",
+        "Name": "Apple Magic Keyboard with Touch ID and Numeric Keypad for Mac computers with Apple silicon - Thai ( MK2C3TH/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 122,
+        "Link": "https://www.lazada.co.th/products/apple-magic-keyboard-for-ipad-pro-129inch-5thgeneration-thai-i2342706214.html",
+        "Name": "Apple Magic Keyboard for iPad Pro 12.9\u2011inch (5thGeneration) - Thai",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 123,
+        "Link": "https://www.lazada.co.th/products/apple-magic-keyboard-with-touch-id-for-mac-computers-with-apple-silicon-thai-mk293tha-i2998169696.html",
+        "Name": "Apple Magic Keyboard with Touch ID for Mac computers with Apple silicon - Thai ( MK293TH/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 124,
+        "Link": "https://www.lazada.co.th/products/apple-magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-models-with-apple-silicon-black-keys-thai-mmmr3tha-i3532843085.html",
+        "Name": "Apple Magic Keyboard with Touch ID and Numeric Keypad for Mac models with Apple silicon - Black Keys - Thai ( MMMR3TH/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 125,
+        "Link": "https://www.lazada.co.th/products/16-inch-macbook-pro-apple-m1-pro-chip-with-10core-cpu-and-16core-gpu-1tb-ssd-space-grey-onederful-wallet-i3925593599.html",
+        "Name": "16-inch MacBook Pro: Apple M1 Pro chip with 10\u2011core CPU and 16\u2011core GPU 1TB SSD - Space Grey [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 126,
+        "Link": "https://www.lazada.co.th/products/mac-mini-30ghz-6-core-8th-generation-intel-core-i5-processor-512gb-i4202416892.html",
+        "Name": "Mac mini: 3.0GHz 6-core 8th-generation Intel Core i5 processor, 512GB ",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 127,
+        "Link": "https://www.lazada.co.th/products/apple-magic-keyboard-folio-for-ipad-10th-generation-thai-i4220707477.html",
+        "Name": "Apple Magic Keyboard Folio for iPad (10th generation) - Thai",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 128,
+        "Link": "https://www.lazada.co.th/products/pre-order-3-apple-studio-display-standard-glass-tilt-adjustable-stand-i3699829181.html",
+        "Name": "[Pre-Order \u0e08\u0e31\u0e14\u0e2a\u0e48\u0e07\u0e20\u0e32\u0e22\u0e43\u0e19 3 \u0e27\u0e31\u0e19] Apple Studio Display - Standard Glass - Tilt-Adjustable Stand",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 129,
+        "Link": "https://www.lazada.co.th/products/pre-order-3-apple-studio-display-nano-texture-glass-tilt-and-height-adjustable-stand-i3699843135.html",
+        "Name": "[Pre-Order \u0e08\u0e31\u0e14\u0e2a\u0e48\u0e07\u0e20\u0e32\u0e22\u0e43\u0e19 3 \u0e27\u0e31\u0e19] Apple Studio Display - Nano-Texture Glass - Tilt- and Height-Adjustable Stand",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 130,
+        "Link": "https://www.lazada.co.th/products/smart-folio-for-ipad-pro-129-inch-5th6th-generation-i2790959323.html",
+        "Name": "Smart Folio for iPad Pro 12.9-inch (5th,6th generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 131,
+        "Link": "https://www.lazada.co.th/products/pre-order-3-apple-studio-display-standard-glass-tilt-and-height-adjustable-stand-i3699709996.html",
+        "Name": "[Pre-Order \u0e08\u0e31\u0e14\u0e2a\u0e48\u0e07\u0e20\u0e32\u0e22\u0e43\u0e19 3 \u0e27\u0e31\u0e19] Apple Studio Display - Standard Glass - Tilt- and Height-Adjustable Stand",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 132,
+        "Link": "https://www.lazada.co.th/products/pre-order-3-apple-studio-display-nano-texture-glass-tilt-adjustable-stand-i3699858067.html",
+        "Name": "[Pre-Order \u0e08\u0e31\u0e14\u0e2a\u0e48\u0e07\u0e20\u0e32\u0e22\u0e43\u0e19 3 \u0e27\u0e31\u0e19] Apple Studio Display - Nano-Texture Glass - Tilt-Adjustable Stand",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 133,
+        "Link": "https://www.lazada.co.th/products/pre-order-3-apple-studio-display-nano-texture-glass-vesa-mount-adapter-stand-not-included-i3699823321.html",
+        "Name": "[Pre-Order \u0e08\u0e31\u0e14\u0e2a\u0e48\u0e07\u0e20\u0e32\u0e22\u0e43\u0e19 3 \u0e27\u0e31\u0e19] Apple Studio Display - Nano-Texture Glass - VESA Mount Adapter (Stand not included)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 134,
+        "Link": "https://www.lazada.co.th/products/apple-usb-c-charge-cable-2m-i160588293.html",
+        "Name": "Apple USB-C Charge Cable (2m)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 135,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-12-i1760100880.html",
+        "Name": "Apple iPhone 12",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 136,
+        "Link": "https://www.lazada.co.th/products/apple-usb-c-to-sd-card-reader-mufg2zaa-i265114586.html",
+        "Name": "Apple USB-C to SD Card Reader ( MUFG2ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 137,
+        "Link": "https://www.lazada.co.th/products/ipad-mini-wi-fi-6-2021-i2783057060.html",
+        "Name": "iPad mini Wi-Fi 6 (2021)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 138,
+        "Link": "https://www.lazada.co.th/products/11-inch-ipad-pro-wifi-cellular-2021-i2332090170.html",
+        "Name": "11-inch iPad Pro Wi\u2011Fi + Cellular (2021)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 139,
+        "Link": "https://www.lazada.co.th/products/apple-45mm-pride-edition-sport-loop-i3921942520.html",
+        "Name": "Apple 45mm Pride Edition Sport Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 140,
+        "Link": "https://www.lazada.co.th/products/apple-magic-keyboard-for-11-inch-ipad-pro-2nd-generation-i870396383.html",
+        "Name": "Apple Magic Keyboard for 11-inch iPad Pro (2nd generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 141,
+        "Link": "https://www.lazada.co.th/products/apple-imac-m1-chip-with-8core-cpu-and-8core-gpu-256gb-ssd-24-inch-retina-45k-display-i2342741169.html",
+        "Name": "Apple iMac : M1 chip with 8\u2011core CPU and 8\u2011core GPU, 256GB SSD, 24-inch Retina 4.5K display",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 142,
+        "Link": "https://www.lazada.co.th/products/apple-magic-keyboard-for-ipad-pro-11-inch-3rd-generation-and-ipad-air-4th-generation-thai-white-i2342554878.html",
+        "Name": "Apple Magic Keyboard for iPad Pro 11-inch (3rd generation) and iPad Air (4th generation) - Thai - White",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 143,
+        "Link": "https://www.lazada.co.th/products/apple-smart-folio-for-ipad-air-5th-generation-i3532427906.html",
+        "Name": "Apple Smart Folio for iPad Air (5th generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 144,
+        "Link": "https://www.lazada.co.th/products/iphone-se-2022-i3531043764.html",
+        "Name": "iPhone SE (2022)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 145,
+        "Link": "https://www.lazada.co.th/products/apple-tv-4k-32gb-i2342591717.html",
+        "Name": "Apple TV 4K 32GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 146,
+        "Link": "https://www.lazada.co.th/products/apple-watch-series-7-gps-cellular-41mm45mm-stainless-steel-case-with-sport-band-regular-i2884144454.html",
+        "Name": "Apple Watch Series 7 GPS + Cellular (41mm,45mm) Stainless Steel Case with Sport Band - Regular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 147,
+        "Link": "https://www.lazada.co.th/products/smart-folio-for-ipad-mini-6th-generation-i2788758952.html",
+        "Name": "Smart Folio for iPad mini (6th generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 148,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-xr-new-box-i2036030312.html",
+        "Name": "Apple iPhone XR - NEW BOX",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 149,
+        "Link": "https://www.lazada.co.th/products/apple-85w-magsafe-2-power-adapter-for-macbook-pro-with-retina-display-i160588356.html",
+        "Name": "Apple 85W MagSafe 2 Power Adapter for MacBook Pro with Retina Display",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 150,
+        "Link": "https://www.lazada.co.th/products/iphone-13-pro-silicone-case-with-magsafe-i2788367808.html",
+        "Name": "iPhone 13 Pro Silicone Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 151,
+        "Link": "https://www.lazada.co.th/products/109-inch-ipad-air-wi-fi-tha-i1592264513.html",
+        "Name": "10.9-inch iPad Air Wi-Fi (THA)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 152,
+        "Link": "https://www.lazada.co.th/products/iphone-13-silicone-case-with-magsafe-i2788090030.html",
+        "Name": "iPhone 13 Silicone Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 153,
+        "Link": "https://www.lazada.co.th/products/apple-watch-nike-se-gps-2021-40mm-44mm-i3341776690.html",
+        "Name": "Apple Watch Nike SE GPS (2021), 40mm , 44mm",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 154,
+        "Link": "https://www.lazada.co.th/products/129-inch-ipad-pro-wifi-cellular-2021-i2332096063.html",
+        "Name": "12.9-inch iPad Pro Wi\u2011Fi + Cellular (2021)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 155,
+        "Link": "https://www.lazada.co.th/products/apple-5w-usb-power-adapter-i160588357.html",
+        "Name": "Apple 5W USB Power Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 156,
+        "Link": "https://www.lazada.co.th/products/iphone-13-pro-max-clear-case-with-magsafe-i2788504611.html",
+        "Name": "iPhone 13 Pro Max Clear Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 157,
+        "Link": "https://www.lazada.co.th/products/apple-airtag-loop-i2342555288.html",
+        "Name": "Apple AirTag Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 158,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-12-mini-i1760284651.html",
+        "Name": "Apple iPhone 12 mini",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 159,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-wi-fi-cellular-102-inch-8th-gen-i1592160840.html",
+        "Name": "Apple iPad Wi-Fi + Cellular 10.2-inch (8th Gen)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 160,
+        "Link": "https://www.lazada.co.th/products/129-inch-ipad-pro-wifi-2021-i2331964318.html",
+        "Name": "12.9-inch iPad Pro Wi\u2011Fi (2021)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 161,
+        "Link": "https://www.lazada.co.th/products/iphone13promax-128gb-graphite-onederful-wallet-i4080724952.html",
+        "Name": "iPhone13ProMax 128GB - Graphite [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 162,
+        "Link": "https://www.lazada.co.th/products/iphone-se-2022-64gb-starlight-onederful-wallet-i3826029691.html",
+        "Name": "iPhone SE (2022) 64GB - Starlight [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 163,
+        "Link": "https://www.lazada.co.th/products/apple-watch-41mm45mm-nike-sport-loop-i4141157665.html",
+        "Name": "Apple Watch 41mm,45mm Nike Sport Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 164,
+        "Link": "https://www.lazada.co.th/products/apple-pencil-1st-generation-onederful-wallet-i4015614704.html",
+        "Name": "Apple Pencil (1st generation) [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 165,
+        "Link": "https://www.lazada.co.th/products/iphone-12-64-gb-blue-onederful-wallet-i1850996225.html",
+        "Name": "iPhone 12 (64 GB) - Blue [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 166,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-iphone-12-white-64gb-i2421000249.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple iPhone 12 - White 64GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 167,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-11-onederful-wallet-i1736860431.html",
+        "Name": "Apple iPhone 11 (\u0e42\u0e17\u0e23\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d) [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 168,
+        "Link": "https://www.lazada.co.th/products/iphone-13-128gb-productred-onederful-wallet-i3925520054.html",
+        "Name": "iPhone 13 128GB - (PRODUCT)RED [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 169,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-iphone-12-white-64gb-i2561364591.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple iPhone 12 - White 64GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 170,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-12-64gb-black-onederful-wallet-i3826128034.html",
+        "Name": "Apple iPhone 12 64GB - Black [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 171,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-12-mini-blue-256gb-onederful-wallet-i3072744728.html",
+        "Name": "Apple iPhone 12 mini (Blue 256GB) [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 172,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-102-inch-ipad-wi-fi-ipad-8th-gen-2020-gold-32gb-i2421024108.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple 10.2-inch iPad Wi-Fi (iPad 8th Gen 2020) - Gold 32GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 173,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-102-inch-ipad-wi-fi-ipad-8th-gen-2020-gold-32gb-i2420998263.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple 10.2-inch iPad Wi-Fi (iPad 8th Gen 2020) - Gold 32GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 174,
+        "Link": "https://www.lazada.co.th/products/iphone-12-pro-i1760382488.html",
+        "Name": "iPhone 12 Pro",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 175,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-iphone-12-white-64gb-i2421025081.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple iPhone 12 - White 64GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 176,
+        "Link": "https://www.lazada.co.th/products/iphone-11-new-box-128gb-product-red-onederful-wallet-i2250865073.html",
+        "Name": "iPhone 11 - NEW BOX (128GB) - Product Red [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 177,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-102-inch-wi-fi-ipad-7th-gen-2019-i449182038.html",
+        "Name": "Apple iPad 10.2-inch Wi-Fi (iPad 7th Gen 2019)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 178,
+        "Link": "https://www.lazada.co.th/products/iphone13promax-256gb-silver-onederful-wallet-i3925596244.html",
+        "Name": "iPhone13ProMax 256GB - Silver [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 179,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-12-mini-64gb-white-onederful-wallet-i2673835161.html",
+        "Name": "Apple iPhone 12 mini (64GB) - White [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 180,
+        "Link": "https://www.lazada.co.th/products/iphone-12-white-64gb-shopback-i2250823142.html",
+        "Name": "iPhone 12 White (64GB) [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 181,
+        "Link": "https://www.lazada.co.th/products/102-inch-ipad-wi-fi-ipad-8th-gen-2020-i1592148835.html",
+        "Name": "10.2-inch iPad Wi-Fi (iPad 8th Gen 2020)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 182,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-11-pro-max-64-gb-space-grey-onederful-wallet-i2250676909.html",
+        "Name": "Apple iPhone 11 Pro Max (64 GB) - Space Grey [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 183,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-102-inch-ipad-wi-fi-ipad-8th-gen-2020-gold-32gb-i2420869907.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple 10.2-inch iPad Wi-Fi (iPad 8th Gen 2020) - Gold 32GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 184,
+        "Link": "https://www.lazada.co.th/products/iphone-12-pro-128gb-pacific-blue-onederful-wallet-i2673716791.html",
+        "Name": "iPhone 12 Pro (128GB) - Pacific Blue [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 185,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-iphone-12-white-64gb-i2420908725.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple iPhone 12 - White 64GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 186,
+        "Link": "https://www.lazada.co.th/products/iphone-13-pro-128gb-gold-onederful-wallet-i3826062091.html",
+        "Name": "iPhone 13 Pro 128GB - Gold [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 187,
+        "Link": "https://www.lazada.co.th/products/ipad-mini-wi-fi-6-2021-64gb-starlight-onederful-wallet-i3925519183.html",
+        "Name": "iPad mini Wi-Fi 6 (2021) 64GB - Starlight [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 188,
+        "Link": "https://www.lazada.co.th/products/apple-thunderbolt-4-pro-cable-3-m-mwp02zaa-i3532831503.html",
+        "Name": "Apple Thunderbolt 4 Pro Cable (3 m) ( MWP02ZA/A )",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 189,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-mini-wi-fi-i306272694.html",
+        "Name": "Apple iPad mini Wi-Fi",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 190,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-air-105-inch-wi-fi-i306280605.html",
+        "Name": "Apple iPad Air 10.5-inch Wi-Fi",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 191,
+        "Link": "https://www.lazada.co.th/products/ipad-air-wi-fi-64gb-space-gray-tha-shopback-i2919484691.html",
+        "Name": "IPAD AIR WI-FI 64GB SPACE GRAY-THA \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a Shopback \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 192,
+        "Link": "https://www.lazada.co.th/products/ipad-mini-wi-fi-64gb-6-2021-canon-ts307-printer-1390-i4079750755.html",
+        "Name": "iPad mini Wi-Fi 64GB - 6 (2021) \u0e23\u0e31\u0e1a\u0e1f\u0e23\u0e35 Canon TS307 Printer \u0e21\u0e39\u0e25\u0e04\u0e48\u0e32 1,390 \u0e1a\u0e32\u0e17",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 193,
+        "Link": "https://www.lazada.co.th/products/109-inch-ipad-air-wi-fi-2022-blue-64-gb-onederful-wallet-i3849490771.html",
+        "Name": "10.9-inch iPad Air Wi-Fi (2022) - Blue 64 GB [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 194,
+        "Link": "https://www.lazada.co.th/products/109-inch-ipad-air-wi-fi-2022-64gb-blue-onederful-wallet-i3700834872.html",
+        "Name": "10.9-inch iPad Air Wi-Fi (2022) 64GB - Blue [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 195,
+        "Link": "https://www.lazada.co.th/products/109-inch-ipad-air-wi-fi-tha-64gb-sky-blue-onederful-wallet-i3450255050.html",
+        "Name": "10.9-inch iPad Air Wi-Fi (THA) 64GB - Sky Blue [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 196,
+        "Link": "https://www.lazada.co.th/products/new-apple-41mm-pride-edition-sport-loop-i3921910879.html",
+        "Name": "(New) Apple 41mm Pride Edition Sport Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 197,
+        "Link": "https://www.lazada.co.th/products/ipad-mini-wi-fi-cellular-64gb-6-2021-canon-ts307-printer-1390-i4079783722.html",
+        "Name": "iPad mini Wi-Fi + Cellular 64GB - 6 (2021) \u0e23\u0e31\u0e1a\u0e1f\u0e23\u0e35 Canon TS307 Printer \u0e21\u0e39\u0e25\u0e04\u0e48\u0e32 1,390 \u0e1a\u0e32\u0e17",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 198,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-airpods-with-charging-case-2019-model-i2561389403.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple AirPods with Charging Case (2019 Model)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 199,
+        "Link": "https://www.lazada.co.th/products/airpods-pro-new-white-onederful-wallet-i3925576695.html",
+        "Name": "AirPods Pro (New) - White [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 200,
+        "Link": "https://www.lazada.co.th/products/apple-airpods-pro-onederful-wallet-i2825842166.html",
+        "Name": "Apple Airpods Pro [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 201,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-air-wi-fi-cellular-109-inch-i1592236525.html",
+        "Name": "Apple iPad Air Wi-Fi + Cellular 10.9-inch",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 202,
+        "Link": "https://www.lazada.co.th/products/apple-airpods-with-wireless-charging-case-2019-model-bluetooth-onederful-wallet-i3028181425.html",
+        "Name": "Apple AirPods with Wireless Charging Case (2019 Model) (\u0e2b\u0e39\u0e1f\u0e31\u0e07\u0e44\u0e23\u0e49\u0e2a\u0e32\u0e22 bluetooth) [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 203,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-airpods-with-charging-case-2019-model-i2421021081.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple AirPods with Charging Case (2019 Model)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 204,
+        "Link": "https://www.lazada.co.th/products/apple-lightning-to-usb-c-cable-1-m-i160588300.html",
+        "Name": "Apple Lightning to USB-C Cable 1 m (\u0e2a\u0e32\u0e22\u0e0a\u0e32\u0e23\u0e4c\u0e08\u0e44\u0e2d\u0e42\u0e1f\u0e19)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 205,
+        "Link": "https://www.lazada.co.th/products/apple-45w-magsafe-2-power-adapter-for-macbook-air-i160588363.html",
+        "Name": "Apple 45W MagSafe 2 Power Adapter for MacBook Air",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 206,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-airpods-with-charging-case-2019-model-i2421031020.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple AirPods with Charging Case (2019 Model)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 207,
+        "Link": "https://www.lazada.co.th/products/apple-airpods-with-charging-case-2019-model-shopback-i2243317902.html",
+        "Name": "Apple AirPods with Charging Case (2019 Model) [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 208,
+        "Link": "https://www.lazada.co.th/products/apple-airpods-pro-onederful-wallet-i2250814258.html",
+        "Name": "Apple Airpods Pro [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 209,
+        "Link": "https://www.lazada.co.th/products/airpods-3rdgeneration-white-onederful-wallet-i3925438601.html",
+        "Name": "AirPods (3rdgeneration) - White [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 210,
+        "Link": "https://www.lazada.co.th/products/airpods-3rdgeneration-onederful-wallet-i3825983960.html",
+        "Name": "AirPods (3rdgeneration) [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 211,
+        "Link": "https://www.lazada.co.th/products/apple-tv-remote-i2342598704.html",
+        "Name": "Apple TV Remote",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 212,
+        "Link": "https://www.lazada.co.th/products/apple-41mm-pride-edition-nike-sport-loop-i3921916793.html",
+        "Name": "Apple 41mm Pride Edition Nike Sport Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 213,
+        "Link": "https://www.lazada.co.th/products/apple-pencil-2nd-generation-onederful-wallet-i4015730188.html",
+        "Name": "Apple Pencil (2nd Generation) [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 214,
+        "Link": "https://www.lazada.co.th/products/shopback-apple-airpods-with-charging-case-2019-model-i2421000235.html",
+        "Name": "[\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SHOPBACK \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19] Apple AirPods with Charging Case (2019 Model)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 215,
+        "Link": "https://www.lazada.co.th/products/airpods-3rdgeneration-white-onederful-wallet-i3450204336.html",
+        "Name": "AirPods (3rdgeneration) - White [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 216,
+        "Link": "https://www.lazada.co.th/products/apple-airpods-with-charging-case-2019-model-bluetooth-onederful-wallet-i1980354088.html",
+        "Name": "Apple AirPods with Charging Case (2019 Model) (\u0e2b\u0e39\u0e1f\u0e31\u0e07\u0e44\u0e23\u0e49\u0e2a\u0e32\u0e22 bluetooth) [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 217,
+        "Link": "https://www.lazada.co.th/products/iphone-13-clear-case-with-magsafe-i2788521273.html",
+        "Name": "iPhone 13 Clear Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 218,
+        "Link": "https://www.lazada.co.th/products/apple-airpods-with-wireless-charging-case-2019-model-bluetooth-i306792139.html",
+        "Name": "Apple AirPods with Wireless Charging Case (2019 Model) (\u0e2b\u0e39\u0e1f\u0e31\u0e07\u0e44\u0e23\u0e49\u0e2a\u0e32\u0e22 bluetooth)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 219,
+        "Link": "https://www.lazada.co.th/products/apple-airpods-with-charging-case-2019-model-bluetooth-onederful-wallet-i1792060414.html",
+        "Name": "Apple AirPods with Charging Case (2019 Model) \u0e2b\u0e39\u0e1f\u0e31\u0e07\u0e44\u0e23\u0e49\u0e2a\u0e32\u0e22 bluetooth [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 220,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-pro-11-inch-wifi-cellular-2nd-gen-2020-model-128gb-i1758318155.html",
+        "Name": "Apple iPad Pro 11-inch Wi\u2011Fi + Cellular (2nd Gen, 2020 Model) 128GB",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 221,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-pro-129-inch-wi-fi-cellular-i265095160.html",
+        "Name": "Apple iPad Pro 12.9-inch Wi-Fi + Cellular",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 222,
+        "Link": "https://www.lazada.co.th/products/apple-67w-usb-c-power-adapter-i3051206727.html",
+        "Name": "Apple 67W USB-C Power Adapter",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 223,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-pro-129-inch-wifi-cellular-4th-gen-2020-model-i870388520.html",
+        "Name": "Apple iPad Pro 12.9-inch Wi\u2011Fi + Cellular (4th Gen, 2020 model)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 224,
+        "Link": "https://www.lazada.co.th/products/airtag-leather-key-ring-i2791452443.html",
+        "Name": "AirTag Leather Key Ring",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 225,
+        "Link": "https://www.lazada.co.th/products/iphone-13-pro-max-silicone-case-with-magsafe-i2788447569.html",
+        "Name": "iPhone 13 Pro Max Silicone Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 226,
+        "Link": "https://www.lazada.co.th/products/apple-smart-folio-for-ipad-air-4th-generation-i1592274195.html",
+        "Name": "Apple Smart Folio for iPad Air (4th generation)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 227,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-pro-129-inch-wi-fi-i265082646.html",
+        "Name": "Apple iPad Pro 12.9-inch Wi-Fi",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 228,
+        "Link": "https://www.lazada.co.th/products/apple-iphone-se-silicone-case-i3532491143.html",
+        "Name": "Apple iPhone SE Silicone Case",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 229,
+        "Link": "https://www.lazada.co.th/products/iphone-13-pro-clear-case-with-magsafe-i2788535278.html",
+        "Name": "iPhone 13 Pro Clear Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 230,
+        "Link": "https://www.lazada.co.th/products/iphone-13-mini-clear-case-with-magsafe-i2788485524.html",
+        "Name": "iPhone 13 mini Clear Case with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 231,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-pro-11-inch-wifi-cellular-2nd-gen-2020-model-i870432015.html",
+        "Name": "Apple iPad Pro 11-inch Wi\u2011Fi + Cellular (2nd Gen, 2020 Model)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 232,
+        "Link": "https://www.lazada.co.th/products/apple-airtag-leather-key-ring-product-red-onederful-wallet-i3241280862.html",
+        "Name": "Apple AirTag Leather Key Ring - (PRODUCT) RED [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 233,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-mini-smart-cover-i870402326.html",
+        "Name": "Apple iPad mini Smart Cover",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 234,
+        "Link": "https://www.lazada.co.th/products/airpods-max-sky-blue-onederful-wallet-i3826093156.html",
+        "Name": "AirPods Max - Sky Blue [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 235,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-pro-11-inch-wifi-2nd-gen-2020-model-i870432010.html",
+        "Name": "Apple iPad Pro 11-inch Wi\u2011Fi (2nd Gen, 2020 Model)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 236,
+        "Link": "https://www.lazada.co.th/products/apple-airtag-leather-loop-i2342570355.html",
+        "Name": "Apple AirTag Leather Loop",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 237,
+        "Link": "https://www.lazada.co.th/products/iphone-leather-wallet-with-magsafe-i1798758088.html",
+        "Name": "iPhone Leather Wallet with MagSafe",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 238,
+        "Link": "https://www.lazada.co.th/products/smart-cover-for-ipad-9th-generation-english-lavender-i2788831783.html",
+        "Name": "Smart Cover for iPad (9th generation) - English Lavender",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 239,
+        "Link": "https://www.lazada.co.th/products/apple-ipad-pro-129-inch-wifi-4th-gen-2020-model-i870390450.html",
+        "Name": "Apple iPad Pro 12.9-inch Wi\u2011Fi (4th Gen, 2020 model)",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 240,
+        "Link": "https://www.lazada.co.th/products/apple-macbook-air-m1-chip-with-8-core-cpu-and-8-core-gpu-512gb-ssd-13-inch-i1799660159.html",
+        "Name": "Apple MacBook Air : M1 chip with 8-core CPU and 8-core GPU 512GB SSD 13-inch",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 241,
+        "Link": "https://www.lazada.co.th/products/apple-magsafe-duo-charger-i3002074261.html",
+        "Name": "Apple MagSafe Duo Charger",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 242,
+        "Link": "https://www.lazada.co.th/products/apple-tv-hd-32gb-onederful-wallet-i4015725076.html",
+        "Name": "Apple TV HD 32GB [\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e01\u0e21 ONEDERFUL WALLET \u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19]",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    },
+    {
+        "Product_ID": 243,
+        "Link": "https://www.lazada.co.th/products/apple-smart-keyboard-folio-for-129-inch-ipad-pro-3rd-generation-japanese-i265120110.html",
+        "Name": "Apple Smart Keyboard Folio for 12.9-inch iPad Pro (3rd Generation) - Japanese",
+        "Status": "Sale",
+        "Scan Status": "Non-Complete"
+    }
+]
