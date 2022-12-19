@@ -6,11 +6,11 @@ bash Anaconda3-2022.10-Linux-x86_64.sh
 
 source ~/.bashrc
 
-(base) pip install selenium -y
+(base) pip install selenium
 
 (base) apt-get update
 
-(base) apt install chromium-chromedriver -y
+(base) apt install chromium-chromedriver
 
 
 (base) ls ~/.jupyter/jupyter_notebook_config.py
